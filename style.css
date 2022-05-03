@@ -681,8 +681,8 @@ p {
 }
 
 .tight-width-whitespace {
-    max-width: 600px;
-    margin: auto auto auto auto;
+    width: 600px;
+    margin: auto;
 }
 
 .h1 {
@@ -771,7 +771,7 @@ h4 {
 }
 
 .bgc-atomic-tangerine {
-    background-color: #896cf3;
+    background-color: #320eb4;
 }
 
 .tc-white {
