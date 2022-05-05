@@ -633,7 +633,7 @@ a[data-lightbox]:hover img {
     background: none;
 }
 
-.social a {
+.text-center a {
     color:#ffffff;
 }
 
@@ -649,7 +649,7 @@ label,
 a {
     font-family: "helvetica";
     font-weight: 400;
-    color: #000000!important;
+    color: #000000;
 }
 
 .container {
